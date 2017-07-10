@@ -1,0 +1,279 @@
+Start Time: 2017-07-10 00:51:05.007287 +0000 UTC
+Elapsed Time: 0s
+Threads: 1
+Total Requests: 1
+Avg Request Time: 1.644ms
+Total Success: 1
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:05.008133 +0000 UTC
+Elapsed Time: 846µs
+Threads: 1
+Total Requests: 1291
+Avg Request Time: 745.481µs
+Total Success: 1291
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:06.008446 +0000 UTC
+Elapsed Time: 1.001159s
+Threads: 2
+Total Requests: 1609
+Avg Request Time: 908.376µs
+Total Success: 1609
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:07.008261 +0000 UTC
+Elapsed Time: 2.000974s
+Threads: 2
+Total Requests: 1842
+Avg Request Time: 1.049452ms
+Total Success: 1842
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:08.009147 +0000 UTC
+Elapsed Time: 3.00186s
+Threads: 3
+Total Requests: 2687
+Avg Request Time: 1.085245ms
+Total Success: 2687
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:09.007873 +0000 UTC
+Elapsed Time: 4.000586s
+Threads: 4
+Total Requests: 2854
+Avg Request Time: 1.194526ms
+Total Success: 2854
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:10.007612 +0000 UTC
+Elapsed Time: 5.000325s
+Threads: 5
+Total Requests: 3180
+Avg Request Time: 1.22531ms
+Total Success: 3180
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:11.007607 +0000 UTC
+Elapsed Time: 6.00032s
+Threads: 5
+Total Requests: 3182
+Avg Request Time: 1.536297ms
+Total Success: 3182
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:12.007715 +0000 UTC
+Elapsed Time: 7.000428s
+Threads: 6
+Total Requests: 3951
+Avg Request Time: 1.362818ms
+Total Success: 3951
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:13.007544 +0000 UTC
+Elapsed Time: 8.000257s
+Threads: 6
+Total Requests: 4040
+Avg Request Time: 1.436953ms
+Total Success: 4040
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:14.021094 +0000 UTC
+Elapsed Time: 9.013807s
+Threads: 7
+Total Requests: 4048
+Avg Request Time: 1.703804ms
+Total Success: 4048
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:15.014917 +0000 UTC
+Elapsed Time: 10.00763s
+Threads: 8
+Total Requests: 4975
+Avg Request Time: 1.463423ms
+Total Success: 4975
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:16.00761 +0000 UTC
+Elapsed Time: 11.000323s
+Threads: 9
+Total Requests: 4978
+Avg Request Time: 1.568989ms
+Total Success: 4978
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:17.007594 +0000 UTC
+Elapsed Time: 12.000307s
+Threads: 9
+Total Requests: 4714
+Avg Request Time: 1.780311ms
+Total Success: 4714
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:18.008196 +0000 UTC
+Elapsed Time: 13.000909s
+Threads: 10
+Total Requests: 5089
+Avg Request Time: 1.825099ms
+Total Success: 5089
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:19.007745 +0000 UTC
+Elapsed Time: 14.000458s
+Threads: 10
+Total Requests: 4857
+Avg Request Time: 2.01405ms
+Total Success: 4857
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:20.008069 +0000 UTC
+Elapsed Time: 15.000782s
+Threads: 10
+Total Requests: 4976
+Avg Request Time: 1.972892ms
+Total Success: 4976
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:21.007919 +0000 UTC
+Elapsed Time: 16.000632s
+Threads: 10
+Total Requests: 5664
+Avg Request Time: 1.715128ms
+Total Success: 5664
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:22.008032 +0000 UTC
+Elapsed Time: 17.000745s
+Threads: 10
+Total Requests: 8206
+Avg Request Time: 1.204624ms
+Total Success: 8206
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:23.007557 +0000 UTC
+Elapsed Time: 18.00027s
+Threads: 10
+Total Requests: 7794
+Avg Request Time: 1.259739ms
+Total Success: 7794
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:24.007614 +0000 UTC
+Elapsed Time: 19.000327s
+Threads: 10
+Total Requests: 5516
+Avg Request Time: 1.78221ms
+Total Success: 5516
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:25.007552 +0000 UTC
+Elapsed Time: 20.000265s
+Threads: 10
+Total Requests: 6011
+Avg Request Time: 1.636407ms
+Total Success: 6011
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:26.007555 +0000 UTC
+Elapsed Time: 21.000268s
+Threads: 10
+Total Requests: 5968
+Avg Request Time: 1.640512ms
+Total Success: 5968
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:27.007657 +0000 UTC
+Elapsed Time: 22.00037s
+Threads: 10
+Total Requests: 6623
+Avg Request Time: 1.473459ms
+Total Success: 6623
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:28.007656 +0000 UTC
+Elapsed Time: 23.000369s
+Threads: 10
+Total Requests: 5709
+Avg Request Time: 1.715823ms
+Total Success: 5709
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:29.007603 +0000 UTC
+Elapsed Time: 24.000316s
+Threads: 10
+Total Requests: 5216
+Avg Request Time: 1.872917ms
+Total Success: 5216
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:30.008607 +0000 UTC
+Elapsed Time: 25.00132s
+Threads: 10
+Total Requests: 4254
+Avg Request Time: 2.30401ms
+Total Success: 4254
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:31.007637 +0000 UTC
+Elapsed Time: 26.00035s
+Threads: 10
+Total Requests: 7116
+Avg Request Time: 1.374471ms
+Total Success: 7116
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:32.008064 +0000 UTC
+Elapsed Time: 27.000777s
+Threads: 10
+Total Requests: 6512
+Avg Request Time: 1.504896ms
+Total Success: 6512
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:33.007685 +0000 UTC
+Elapsed Time: 28.000398s
+Threads: 10
+Total Requests: 6717
+Avg Request Time: 1.461044ms
+Total Success: 6717
+Total Timeouts: 0
+Total Failures: 0
+
+Start Time: 2017-07-10 00:51:34.007645 +0000 UTC
+Elapsed Time: 29.000358s
+Threads: 10
+Total Requests: 5361
+Avg Request Time: 1.82959ms
+Total Success: 5361
+Total Timeouts: 0
+Total Failures: 0
+
